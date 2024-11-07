@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "TTMedium";
+  src: url("./font/TT_Fors_Medium.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "TTRegular";
+  src: url("./font/TT_Fors_Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.medium-font {
+  font-family: "TTMedium";
+  font-size: 24px;
+}
+
+.regular-font {
+  font-family: "TTRegular";
+  font-size: 18px;
+}
